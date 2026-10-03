@@ -165,7 +165,7 @@ A contribution can simply be:
 
 - Fixing a typo
 - Improving documentation
-- Adding an example
+- Adding an example     
 - Updating a README
 - Fixing incorrect information
 - Adding a useful resource
@@ -178,6 +178,10 @@ The goal of your first contribution is not to impress anyone.
 ---
 
 ## Ready?
+yes
+
+
+
 
 Find something small you can improve.
 
